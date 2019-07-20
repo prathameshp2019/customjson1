@@ -1,0 +1,30 @@
+{
+  "products": [
+  {
+    "id": 1,
+    "ProductName": "Burton Custom Freestyle 151",
+    "ProductDescription": "<strong>Good snowboard!</strong>",
+    "vendor": "Burton",
+    "product_type": "Snowboard",
+    "ProductPrice": "10.00"
+  },
+  
+  {
+    "id": 2,
+    "ProductName": "Caton Custom Freestyle 151",
+    "ProductDescription": "<strong>Good snowboard!</strong>",
+    "vendor": "Burton",
+    "product_type": "Snowboard",
+    "ProductPrice": "15.00"
+  },
+  
+  {
+    "id": 3,
+    "ProductName": "saton Custom Freestyle 151",
+    "ProductDescription": "<strong>Good snowboard!</strong>",
+    "vendor": "Burton",
+    "product_type": "Snowboard",
+    "ProductPrice": "12.00"
+  }
+  ]
+}
